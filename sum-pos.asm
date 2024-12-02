@@ -41,10 +41,12 @@ call writestring
 ;New Line
 call crlf
 ;Displaying the sum
+
 mov eax,sum
 call writeint
 call crlf 
 ;Loading the address of msg 2
+
 mov edx,offset msgCount
 call writestring
 ;New Line
