@@ -48,6 +48,7 @@ call writestring
 ;New Line
 call crlf
 ;Displaying the count
+
 mov eax,count
 call writeint
 main endp
