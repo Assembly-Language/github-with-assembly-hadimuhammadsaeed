@@ -30,4 +30,4 @@ remarks about sum-pos
 Overall remarks
 
 Push your work online using GitHub.
-- Make some changes to the project
+- Make some changes to the project
